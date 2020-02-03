@@ -1,0 +1,29 @@
+{
+  "name": "google-sheet-data",
+  "version": "1.0.0",
+  "description": "Returns google sheet data in either json, csv or html formats",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davea38/google-sheet-data.git"
+  },
+  "keywords": [
+    "google",
+    "sheet",
+    "sheets",
+    "davea38",
+    "hillhouseit",
+    "json",
+    "csv",
+    "html"
+  ],
+  "author": "davea38",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/davea38/google-sheet-data/issues"
+  },
+  "homepage": "https://github.com/davea38/google-sheet-data#readme",
+  "dependencies": {
+    "request-promise": "^4.2.5"
+  }
+}
